@@ -1,7 +1,7 @@
 ## Olá eu sou o Nathan Henrique, estudante de Engenharia de Software
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathanhds&show_icons=true&theme=radical"/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanhds)](https://github.com/Nathanhds/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanhds&show_icons=true&theme=radical)](https://github.com/Nathanhds"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
