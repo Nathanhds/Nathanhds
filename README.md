@@ -1,6 +1,6 @@
 ## Olá eu sou o Nathan Henrique, estudante de Engenharia de Software
 <div>
-<img height="180em" src=(https://github-readme-stats.vercel.app/api?username=Nathanhds&show_icons=true&theme=radical)>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathanhds&show_icons=true&theme=radical"/>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanhds)](https://github.com/Nathanhds/github-readme-stats)
 </div>
 <div style="display: inline_block"><br>
