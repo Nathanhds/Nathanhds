@@ -1,7 +1,8 @@
-## Olá eu sou o Nathan Henrique, sou estudante de Engenharia de Software
+## Olá eu sou o Nathan Henrique, estudante de Engenharia de Software
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathanhds&show_icons=true&theme=radical)
 <div style="display: inline_block"><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanhds)](https://github.com/anuraghazra/github-readme-stats)
   <img align="center" alt="Nathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nathan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
