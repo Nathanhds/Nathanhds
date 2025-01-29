@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Nathan Henrique da Silva</h1>
-<h3 align="center">Estudante de Engenharia de Software na Unifil</h3>
+<h3 align="center">Estudante de Engenharia de Software na Unicesumar</h3>
 <br>
 <br>
 - 🌱 Estou Aprendendo sobre Gerência de Projetos, Artefatos de Software, HTML, CSS, Python, JavaScript, Git e Github
